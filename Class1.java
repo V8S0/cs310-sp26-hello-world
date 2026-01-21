@@ -1,6 +1,6 @@
 /**
  *
- * @Salman Alradhi
+ * @author Salman Alradhi
  */
 
 public class Class1 {
